@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Avantgouu//v5.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:avantgouu-v5.0-party@avantgouu
+DTSTAMP:20261016T000000Z
+DTSTART:20261227T204500Z
+DTEND:20261228T020000Z
+SUMMARY:Avantgouu v5.0 · Lucid Dreaming
+LOCATION:BergLounge Eggli\, Gstaad · Eggli gondola from the valley station
+  in Gstaad
+DESCRIPTION:Doors 21:45 to 22:30. Ends 03:00.\nLast gondola down 03:00.\nBe
+ rgLounge Eggli\, reached via the Gstaad gondolas.\nPlan your journey accor
+ dingly and catch the gondola before it closes. No late arrivals.\nEntry is
+  strictly 20+. Valid ID required. Tickets are non-refundable.\nhttps://www
+ .avantgouu.com/
+URL:https://www.avantgouu.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Avantgouu v5.0 · Lucid Dreaming is tomorrow. Doors 21:45 to 22
+ :30.
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Doors 21:45 to 22:30. Eggli gondola from the valley station in 
+ Gstaad.
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1 @@
+var e=`#0c0f33`,t=`#f5f5f2`,n=[12,15,51];export{n,t as r,e as t};
