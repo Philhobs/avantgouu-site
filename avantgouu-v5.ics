@@ -6,27 +6,28 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:avantgouu-v5.0-party@avantgouu
 DTSTAMP:20261016T000000Z
-DTSTART:20261227T204500Z
+DTSTART:20261227T210000Z
 DTEND:20261228T020000Z
 SUMMARY:Avantgouu v5.0 · Lucid Dreaming
 LOCATION:BergLounge Eggli\, Gstaad · Eggli gondola from the valley station
   in Gstaad
-DESCRIPTION:Doors 21:45 to 22:30. Ends 03:00.\nLast gondola down 03:00.\nBe
- rgLounge Eggli\, reached via the Gstaad gondolas.\nPlan your journey accor
- dingly and catch the gondola before it closes. No late arrivals.\nEntry is
-  strictly 20+. Valid ID required. Tickets are non-refundable.\nhttps://www
- .avantgouu.com/
+DESCRIPTION:Gondola up 22:00 to 22:40.\nGondola down 03:00 to 03:15.\nBergL
+ ounge Eggli\, reached via the Gstaad gondolas.\nPlan your journey accordin
+ gly and catch the gondola before it closes. No late arrivals.\nEntry is st
+ rictly 20+. Valid ID required. Tickets are non-refundable.\nDress code: As
+  dreamy as can be. Anything out of the ordinary.\nhttps://www.avantgouu.co
+ m/
 URL:https://www.avantgouu.com/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Avantgouu v5.0 · Lucid Dreaming is tomorrow. Doors 21:45 to 22
- :30.
+DESCRIPTION:Avantgouu v5.0 · Lucid Dreaming is tomorrow. Gondola up 22:00 
+ to 22:40.
 TRIGGER:-PT1440M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Doors 21:45 to 22:30. Eggli gondola from the valley station in 
- Gstaad.
+DESCRIPTION:Gondola up 22:00 to 22:40. Eggli gondola from the valley statio
+ n in Gstaad.
 TRIGGER:-PT120M
 END:VALARM
 END:VEVENT
